@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e17350eb4bf7a2444b85f9013ef3877c, type: 3}
+  m_Name: Starting Board Layout
+  m_EditorClassIdentifier: 
+  _boardSquares:
+  - Position: {x: 1, y: 1}
+    PieceType: 3
+    TeamColor: 1
+  - Position: {x: 2, y: 1}
+    PieceType: 2
+    TeamColor: 1
+  - Position: {x: 3, y: 1}
+    PieceType: 1
+    TeamColor: 1
+  - Position: {x: 4, y: 1}
+    PieceType: 4
+    TeamColor: 1
+  - Position: {x: 5, y: 1}
+    PieceType: 5
+    TeamColor: 1
+  - Position: {x: 6, y: 1}
+    PieceType: 1
+    TeamColor: 1
+  - Position: {x: 7, y: 1}
+    PieceType: 2
+    TeamColor: 1
+  - Position: {x: 8, y: 1}
+    PieceType: 3
+    TeamColor: 1
+  - Position: {x: 1, y: 2}
+    PieceType: 0
+    TeamColor: 1
+  - Position: {x: 2, y: 2}
+    PieceType: 0
+    TeamColor: 1
+  - Position: {x: 3, y: 2}
+    PieceType: 0
+    TeamColor: 1
+  - Position: {x: 4, y: 2}
+    PieceType: 0
+    TeamColor: 1
+  - Position: {x: 5, y: 2}
+    PieceType: 0
+    TeamColor: 1
+  - Position: {x: 6, y: 2}
+    PieceType: 0
+    TeamColor: 1
+  - Position: {x: 7, y: 2}
+    PieceType: 0
+    TeamColor: 1
+  - Position: {x: 8, y: 2}
+    PieceType: 0
+    TeamColor: 1
+  - Position: {x: 1, y: 8}
+    PieceType: 3
+    TeamColor: 0
+  - Position: {x: 2, y: 8}
+    PieceType: 2
+    TeamColor: 0
+  - Position: {x: 3, y: 8}
+    PieceType: 1
+    TeamColor: 0
+  - Position: {x: 4, y: 8}
+    PieceType: 4
+    TeamColor: 0
+  - Position: {x: 5, y: 8}
+    PieceType: 5
+    TeamColor: 0
+  - Position: {x: 6, y: 8}
+    PieceType: 1
+    TeamColor: 0
+  - Position: {x: 7, y: 8}
+    PieceType: 2
+    TeamColor: 0
+  - Position: {x: 8, y: 8}
+    PieceType: 3
+    TeamColor: 0
+  - Position: {x: 1, y: 7}
+    PieceType: 0
+    TeamColor: 0
+  - Position: {x: 2, y: 7}
+    PieceType: 0
+    TeamColor: 0
+  - Position: {x: 3, y: 7}
+    PieceType: 0
+    TeamColor: 0
+  - Position: {x: 4, y: 7}
+    PieceType: 0
+    TeamColor: 0
+  - Position: {x: 5, y: 7}
+    PieceType: 0
+    TeamColor: 0
+  - Position: {x: 6, y: 7}
+    PieceType: 0
+    TeamColor: 0
+  - Position: {x: 7, y: 7}
+    PieceType: 0
+    TeamColor: 0
+  - Position: {x: 8, y: 7}
+    PieceType: 0
+    TeamColor: 0
